@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_e6650e0c5a3aed0cdbe26aaac6d7a1c09a81bdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_d96a901f6b3c8ad1745f3e1717d95f4e67b8595d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_ed08fbb7243cf9f83ae2ade06e3ff5880e13a712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_b73d8011326d5e896129ced7dbcf3fe950d9162a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_931a5816da37406b39cc735b3c4daa886d8860b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8536644ba3dfe0a36a51574b1e7a3430b724525b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\My-PullToRefreshDemo\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\My-PullToRefreshDemo-library-unspecified_d2c30b24419252a9d372457ef9bd95683b7e62a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e119dd79da85c6d8f2892b3ce0614e36e93ed023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_ac44e28057101ac61d4464ca5531a26c00f3d9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_da17c9132853f68ec219a383fbb3fcc66baee417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\program\My-PullToRefreshDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\program\My-PullToRefreshDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_f7a31c292310a06604415cb0ecd4e1016c2563e2.jar" />
+    </item>
+
+</items>
